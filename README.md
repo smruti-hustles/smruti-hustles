@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Smruti</h1>
 <h3 align="center">-------Just another Code Maverick who's trying to figure out stuff through lines of code-------</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://images.playground.com/417bae38a6054779abaeb2898c0c6639.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smruti-hustles&label=Profile%20views&color=0e75b6&style=flat" alt="smruti-hustles" /> </p>
 
 - 🔭 I’m currently working on **Awesome Resume(A Full-Stack Web Project)**
