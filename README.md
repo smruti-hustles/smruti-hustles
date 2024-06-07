@@ -1,4 +1,4 @@
-
+![logo](https://github.com/smruti-hustles/smruti-hustles/blob/main/background.png)
 
 <h1 align="center">Hi 👋, I'm Smruti</h1>
 <h3 align="center">-------Just another Code Maverick who's trying to figure out stuff through lines of code-------</h3>
